@@ -1,0 +1,16 @@
+{
+    "name": "phpcon/coding-dojo",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^5.5"
+    },
+    "authors": [
+        {
+            "name": "Grzegorz Godlewski",
+            "email": "grzegorz@sorcerysutdio.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "PhpCon\\": "src/" }
+    }
+}
