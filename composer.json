@@ -5,10 +5,10 @@
         "phpunit/phpunit": "^5.5"
     },
     "authors": [
-        {
-            "name": "Grzegorz Godlewski",
-            "email": "grzegorz@sorcerysutdio.com"
-        }
+        "Bolek",
+        "Lolek",
+        "Tola",
+        "Reksio"
     ],
     "autoload": {
         "psr-4": { "PhpCon\\": "src/" }
